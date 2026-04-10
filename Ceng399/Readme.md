@@ -101,7 +101,7 @@ python main.py
 **Kadir Yurdakul** - Molecular Biology & Genetics Student @ IYTE
 
 - **GitHub:** [@Kadirydx](https://github.com/Kadirydx)
-- **LinkedIn:** [Kadir Yurdakul](https://www.linkedin.com/in/kadiryurdakul)
+- **LinkedIn:** [Kadir Yurdakul](https://www.linkedin.com/in/kadir-yurdakul-798166211/)
 - **Project Topic:** Machine Learning in Computational Biology
 
 ---
